@@ -2,7 +2,8 @@
 Submission: Tugas Akhir Membuat Website
 
 ## Deskripsi
-Projek ini adalah submission untuk kelas Belajar Dasar Pemrograman Web - Dicoding. Kelas ini merupakan langkah ke-satu Anda untuk menjadi Front-End Web Developer.
+Projek ini adalah submission untuk kelas Belajar Dasar Pemrograman Web - Dicoding. Kelas ini merupakan langkah ke-satu Anda untuk menjadi Front-End Web Developer.  
+
 Tema Submission ialah beasiswa react developer oleh idcamp x dicoding (sumber dari https://idcamp.ioh.co.id/ & https://www.dicoding.com)
 
 Kriteria fitur :
